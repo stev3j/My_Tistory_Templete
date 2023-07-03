@@ -1719,6 +1719,10 @@ a.btn {
     line-height: 1.4;
 }
 
+.entry-content .title {
+    padding-bottom: 70px;
+}
+
 
 /* Entry Content */
 
